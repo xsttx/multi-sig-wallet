@@ -19,6 +19,8 @@
   "homepage": "https://github.com/Bit-Nation/multi-sig-wallet#readme",
   "devDependencies": {
     "electron": "^1.7.9",
-    "electron-reload": "^1.2.2"
-  }
+    "electron-reload": "^1.2.2",
+    "vue": "^2.5.9"
+  },
+  "dependencies": {}
 }
